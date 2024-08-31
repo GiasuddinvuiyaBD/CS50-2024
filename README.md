@@ -49,4 +49,4 @@ The CS50 CSX course is an introduction to the intellectual enterprises of comput
 Feel free to reach out if you have any questions or would like to collaborate on projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/GiasuddinvuiyaBD)
